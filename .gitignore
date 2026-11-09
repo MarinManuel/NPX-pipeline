@@ -26,3 +26,4 @@ pipeline/nextflow_slurm_custom.config
 pipeline/process_versions_custom.env
 .idea
 .claude
+pipeline/secrets.env
